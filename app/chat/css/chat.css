@@ -1,0 +1,9 @@
+.chat {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 98.5%;
+    height: 550px;
+    border: 1px solid black;
+}
